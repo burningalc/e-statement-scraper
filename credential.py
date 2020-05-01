@@ -1,0 +1,6 @@
+credential = {
+    "americanExpress": {
+        "username": "",
+        "password": ""
+    }
+}
